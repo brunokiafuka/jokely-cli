@@ -6,7 +6,8 @@
 <br/><br/><br/>
 
 ### Install locally
-After cloning the repository, navigate to the project repository and run on your terminal the following command `npm install -g .` to install the CLI globally on your machine. 
+After cloning the repository, navigate to the project repository and run on your terminal the following command:
+-  `npm install -g .` to install the CLI globally on your machine. 
 
 > Make sure you install the dependencies by running `npm install or yarn`.
 
