@@ -1,0 +1,23 @@
+{
+  "name": "jokely-cli",
+  "version": "1.0.0",
+  "license": "MIT",
+  "bin": {
+    "jokely": "cli.js"
+  },
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Kiafuka (https://github.com/brunokiafuka)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brunokiafuka/jokely-cli.git"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "boxen": "4.0",
+    "chalk": "2.4",
+    "yargs": "13.2"
+  }
+}
